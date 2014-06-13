@@ -1,4 +1,20 @@
-vagrant-foreman
-===============
+foreman-vagrant
+=============
 
-Foreman playground on Vagrant installer
+This is Foreman playground installation in Vagrant box. It uses
+foreman-installer Puppet manifests from Foreman team to install 
+Foreman.
+
+Clone repository
+ 
+    $ git clone --recursive https://github.com/VerosK/vagrant-foreman 
+
+Install Foreman to Vagrant box
+
+    vagrant up
+
+Destroy Vagrant box
+  
+    vagrant destroy
+
+Enjoy.
