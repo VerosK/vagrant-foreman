@@ -17,4 +17,4 @@ Destroy Vagrant box
   
     vagrant destroy
 
-Enjoy.
+Enjoy a http://localhost:4080/  Username is admin and password is changeme.
